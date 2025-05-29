@@ -2,7 +2,8 @@
 
 A visually engaging 3D carousel slider that showcases a collection of shirts. Built using HTML, CSS, and JavaScript.
 
-![Screenshot](Screenshot%202025-05-29%20221328.png)
+![Screenshot 2025-05-29 221328](https://github.com/user-attachments/assets/a76556fe-9d1d-49e2-a9db-141e007aa3d8)
+
 
 ## ✨ Features
 
@@ -14,7 +15,8 @@ A visually engaging 3D carousel slider that showcases a collection of shirts. Bu
 
 ## 🚀 Demo
 
-![Carousel Preview](Screenshot%202025-05-29%20221328.png)
+![Screenshot 2025-05-29 221328](https://github.com/user-attachments/assets/260770da-eb91-4b49-b8bd-c24d0e75cedc)
+
 
 ## 🛠️ Technologies Used
 
